@@ -7,7 +7,7 @@
 
 ### Work
 * I am currently a Graduate Teaching Assistant and  Lead Lab Instructor at [William & Mary](https://www.wm.edu/as/computerscience/).
-* I am an incoming intern at [Disney](https://jobs.disneycareers.com/) (Summer 2024) and [Google](https://www.google.com/about/careers/applications/) (Fall 2024).
+* I am an intern at [Disney](https://jobs.disneycareers.com/) (Summer 2024) and incoming intern at [Google](https://www.google.com/about/careers/applications/) (Fall 2024).
 * I have previously interned at [Google](https://www.google.com/about/careers/applications/) (2023, 2022) and [Noblis](https://careers.noblis.org/) (2021, 2020, 2019).
 
 ### Personal Projects
