@@ -1,7 +1,8 @@
 ## Hello There 👋
 
 ### Education
-* I am currently a full-time MS/PhD Computer Science student at [William & Mary](https://www.wm.edu/as/computerscience/).
+* I am currently a full-time PhD Computer Science student at [William & Mary](https://www.wm.edu/as/computerscience/).
+* In May 2024, I graduated from [William & Mary](https://www.wm.edu/as/computerscience/) with my Master of Science in Computer Science.
 * In August 2022, I graduated from [George Mason University](https://cs.gmu.edu/) with my Bachelor of Science in Computer Science.
 
 ### Work
