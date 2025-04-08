@@ -16,4 +16,4 @@
 * Outside of school and work, most of my projects have focused on iOS app development.
 
 ### Connect
-* Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/collin-macdonald/) or [X](https://twitter.com/CollinTheCoder).
+* Feel free to connect with me on my [Website](https://collin-macdonald.com), [LinkedIn](https://www.linkedin.com/in/collin-macdonald/), or [X](https://twitter.com/CollinTheCoder).
